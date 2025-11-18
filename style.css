@@ -1,0 +1,37 @@
+ body {
+            background-image: url("down.load\ \(1\).jpeg");
+        background: linear-gradient(to bottom, #000000, #1a1a1a);
+        color: #ffffff;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            color: white;
+            text-align: center;
+            padding-top: 20%;
+            text-shadow: 2px 2px 4px #000000;
+        }
+        p {
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+    text-shadow: 2px 2px 3px #000000;
+}
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+    color: rgb(14, 14, 14);
+    padding: 10px 15px;
+    text-decoration: none;
+    background: rgba(249, 249, 249, 0.849);
+    border-radius: 4px;
+    margin: 0 6px;
+    display: inline-block;
+}
